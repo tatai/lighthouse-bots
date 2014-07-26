@@ -9,4 +9,4 @@ Requisitos:
 		# apt-get install php5-cli
 
 Uso:
-$ php Thros/Thros.php
+$ php Thros.php
