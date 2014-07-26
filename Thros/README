@@ -1,0 +1,12 @@
+Nombre: Thros
+Autor: Fran <fran@navarparty.org>
+Puesto: AO-11
+Licencia: Dominio Público
+
+
+Requisitos:
+	PHP 5.3.x o 5.4.x
+		# apt-get install php5-cli
+
+Uso:
+$ php Thros/Thros.php
